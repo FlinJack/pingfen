@@ -1,0 +1,12 @@
+[submodule "exams"]
+	path = exams
+	url = https://github.com/FlinJack/pingfen.git
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/FlinJack/pingfen.git
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/FlinJack/pingfen.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/FlinJack/pingfen.git
